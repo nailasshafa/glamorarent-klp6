@@ -6,7 +6,7 @@
 Penyewaan Busana Wisuda, Jas Resmi, dan Kebaya Secara Daring
 
 ## Tautan Website
-https://nailasshafa.github.io/glamorarent-klp6/
+[https://nailasshafa.github.io/glamorarent-klp6/](https://nailasshafa.github.io/glamorarent-klp6/)
 
 ## Anggota Kelompok
 
