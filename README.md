@@ -11,7 +11,7 @@ Penyewaan Busana Wisuda, Jas Resmi, dan Kebaya Secara Daring
 | No | Nama Lengkap | NIM | Peran | Bagian yang Dikerjakan |
 |----|--------------|-----|-------|------------------------|
 | 1 | Naila Shafa | 1710625120 | CEO | Header, footer, README, penggabungan |
-| 2 | Jennie Sheila Palupi | 1710625016 | UI/UX DESIGNER | Hero section, Catalog section |
+| 2 | Jennie Sheila Palupi | 1710625016 | UI/UX DESIGNER | Kartu, Formulir, Efek tombol |
 | 3 | Audhy Ramadhany | 1710625182 | UI/UX DESIGNER | Warna, tipografi, layout |
 | 4 | Intan Zahra | 1710625160 | PRODUCT MANAGER | Hero section, Catalog section |
 | 5 | Keysa Shabira Runna | 1710625056 | SOFTWARE ENGINEER | Form kalkulator |
