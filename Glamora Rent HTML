@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Glamora Rent | Sewa Busana Wisuda, Jas Resmi, dan Kebaya</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- BAGIAN 1: HEADER (CEO) -->
+  <header id="header-section" data-role="CEO">
+    <a class="brand" href="#hero-section">Glamora Rent</a>
+    <nav>
+      <a href="#hero-section">Beranda</a>
+      <a href="#catalog-section">Katalog</a>
+      <a href="#calc-section">Kalkulator</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- BAGIAN 2: HERO (PM 1) -->
+    <section id="hero-section" data-role="PM">
+      <h1>Tampil anggun di hari istimewamu, tanpa perlu membeli.</h1>
+      <p class="lead">Sewa busana wisuda, jas resmi, dan kebaya secara daring. Pilih paket, hitung biayanya, lalu pesan.</p>
+
+      <!-- Gambar busana -->
+      <div class="busana-grid">
+        <figure class="busana">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ilustrasi toga wisuda"><defs><linearGradient id="g1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf5ea"/><stop offset="1" stop-color="#ecd0d9"/></linearGradient></defs><rect width="400" height="500" fill="url(#g1)"/><path d="M60 500 V210 A140 140 0 0 1 340 210 V500Z" fill="#c4728f" opacity=".16"/><path d="M82 500 V212 A118 118 0 0 1 318 212 V500Z" fill="none" stroke="#4a1229" stroke-opacity=".25" stroke-width="1.5"/><ellipse cx="200" cy="486" rx="110" ry="9" fill="#4a1229" opacity=".12"/>
+<path d="M128 122 Q200 104 272 122 L292 190 L352 330 Q340 350 312 344 L286 262 L306 462 Q200 484 94 462 L114 262 L88 344 Q60 350 48 330 L108 190Z" fill="#2a0e18"/>
+<path d="M200 118 L200 466 M160 130 L150 468 M240 130 L250 468 M122 270 L112 462 M278 270 L288 462" stroke="#4a1229" stroke-width="3" fill="none" opacity=".8"/>
+<path d="M152 119 Q200 138 248 119 L236 128 L214 300 L200 312 L186 300 L164 128Z" fill="#fbf5ea"/>
+<path d="M154 120 L186 300 L178 470 L158 470 L150 300Z M246 120 L214 300 L222 470 L242 470 L250 300Z" fill="#b9bd6a"/>
+<path d="M160 140 L166 140 M234 140 L240 140" stroke="#4a1229" stroke-width="2"/>
+<g transform="translate(-28 6) rotate(-14 330 70)"><path d="M262 66 L330 40 L398 66 L330 92Z" fill="#2a0e18"/><path d="M296 80 V100 Q330 116 364 100 V80 L330 92Z" fill="#340b1c"/><path d="M330 66 L384 70 V104" stroke="#b9bd6a" stroke-width="3" fill="none"/><rect x="379" y="102" width="9" height="22" rx="2" fill="#b9bd6a"/></g>
+<path d="M200 82 V66 a11 11 0 1 0 -11 -11" fill="none" stroke="#b9bd6a" stroke-width="4" stroke-linecap="round"/><path d="M200 82 L100 126 H300Z" fill="none" stroke="#b9bd6a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
+          <figcaption>Toga Wisuda</figcaption>
+        </figure>
+        <figure class="busana">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ilustrasi jas resmi"><defs><linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf5ea"/><stop offset="1" stop-color="#ecd0d9"/></linearGradient></defs><rect width="400" height="500" fill="url(#g2)"/><path d="M60 500 V210 A140 140 0 0 1 340 210 V500Z" fill="#c4728f" opacity=".16"/><path d="M82 500 V212 A118 118 0 0 1 318 212 V500Z" fill="none" stroke="#4a1229" stroke-opacity=".25" stroke-width="1.5"/><ellipse cx="200" cy="486" rx="110" ry="9" fill="#4a1229" opacity=".12"/>
+<path d="M118 124 Q200 106 282 124 L304 150 L322 400 L292 406 L284 230 L290 440 L110 440 L116 230 L108 406 L78 400 L96 150Z" fill="#340b1c"/>
+<path d="M164 118 Q200 130 236 118 L252 140 L200 300 L148 140Z" fill="#fbf5ea"/>
+<path d="M164 118 L200 300 L150 440 L124 440 L128 200 L146 140Z M236 118 L200 300 L250 440 L276 440 L272 200 L254 140Z" fill="#4a1229"/>
+<path d="M146 140 L200 300 L128 200Z M254 140 L200 300 L272 200Z" fill="#2a0e18"/>
+<path d="M186 130 L214 130 L219 148 L200 160 L181 148Z" fill="#c4728f"/>
+<path d="M190 158 L210 158 L217 270 L200 292 L183 270Z" fill="#c4728f"/>
+<path d="M190 158 L200 168 L210 158" stroke="#4a1229" stroke-width="2" fill="none"/>
+<path d="M232 252 L262 250 L260 262 L232 264Z" fill="#fbf5ea"/><path d="M240 250 L252 250 L246 258Z" fill="#c4728f"/>
+<circle cx="200" cy="340" r="4.5" fill="#b9bd6a"/><circle cx="200" cy="390" r="4.5" fill="#b9bd6a"/>
+<path d="M200 300 V440" stroke="#2a0e18" stroke-width="2" opacity=".6"/>
+<path d="M96 150 L108 406 M304 150 L292 406" stroke="#4a1229" stroke-width="2" opacity=".7"/>
+<path d="M200 82 V66 a11 11 0 1 0 -11 -11" fill="none" stroke="#b9bd6a" stroke-width="4" stroke-linecap="round"/><path d="M200 82 L100 126 H300Z" fill="none" stroke="#b9bd6a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
+          <figcaption>Jas Resmi</figcaption>
+        </figure>
+        <figure class="busana">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Ilustrasi kebaya"><defs><linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf5ea"/><stop offset="1" stop-color="#ecd0d9"/></linearGradient></defs><rect width="400" height="500" fill="url(#g3)"/><path d="M60 500 V210 A140 140 0 0 1 340 210 V500Z" fill="#c4728f" opacity=".16"/><path d="M82 500 V212 A118 118 0 0 1 318 212 V500Z" fill="none" stroke="#4a1229" stroke-opacity=".25" stroke-width="1.5"/><ellipse cx="200" cy="486" rx="110" ry="9" fill="#4a1229" opacity=".12"/>
+<defs><pattern id="batik" width="28" height="28" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="#4a1229"/><path d="M14 3 L25 14 L14 25 L3 14Z" fill="none" stroke="#c4728f" stroke-width="1.6"/><circle cx="14" cy="14" r="2.4" fill="#b9bd6a"/></pattern>
+<pattern id="renda" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="2" fill="#c4728f" opacity=".55"/></pattern></defs>
+<path d="M142 296 H258 L272 470 H128Z" fill="url(#batik)"/>
+<path d="M142 296 H258 L260 312 H140Z" fill="#b9bd6a"/>
+<path d="M128 124 Q200 108 272 124 L296 150 L338 300 L304 310 L276 196 L282 304 Q200 322 118 304 L124 196 L96 310 L62 300 L104 150Z" fill="#fbf5ea" stroke="#c4728f" stroke-width="1.5"/>
+<path d="M128 124 Q200 108 272 124 L296 150 L338 300 L304 310 L276 196 L282 304 Q200 322 118 304 L124 196 L96 310 L62 300 L104 150Z" fill="url(#renda)"/>
+<path d="M164 118 Q200 130 236 118 L200 230Z" fill="#ecd0d9"/>
+<path d="M162 116 L200 236 L238 116" fill="none" stroke="#c4728f" stroke-width="5" stroke-linejoin="round"/>
+<path d="M200 236 V310" stroke="#c4728f" stroke-width="2" stroke-dasharray="3 5"/>
+<g fill="#fbf5ea" stroke="#c4728f" stroke-width="1.5"><circle cx="66" cy="304" r="7"/><circle cx="82" cy="308" r="7"/><circle cx="98" cy="310" r="7"/><circle cx="302" cy="310" r="7"/><circle cx="318" cy="308" r="7"/><circle cx="334" cy="304" r="7"/><circle cx="136" cy="306" r="7"/><circle cx="156" cy="310" r="7"/><circle cx="176" cy="313" r="7"/><circle cx="224" cy="313" r="7"/><circle cx="244" cy="310" r="7"/><circle cx="264" cy="306" r="7"/></g>
+<g fill="#b9bd6a"><circle cx="178" cy="158" r="3"/><circle cx="222" cy="158" r="3"/><circle cx="172" cy="196" r="3"/><circle cx="228" cy="196" r="3"/></g>
+<path d="M200 82 V66 a11 11 0 1 0 -11 -11" fill="none" stroke="#b9bd6a" stroke-width="4" stroke-linecap="round"/><path d="M200 82 L100 126 H300Z" fill="none" stroke="#b9bd6a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
+          <figcaption>Kebaya</figcaption>
+        </figure>
+      </div>
+
+      <ul class="keunggulan">
+        <li>Pilihan busana lengkap</li>
+        <li>Harga ramah mahasiswa</li>
+        <li>Bersih dan siap pakai</li>
+      </ul>
+      <a class="btn" href="#calc-section">Hitung biaya sewa</a>
+    </section>
+
+    <!-- BAGIAN 3: KATALOG (PM 2) -->
+    <section id="catalog-section" data-role="PM">
+      <h2>Katalog paket</h2>
+      <p class="sub">Harga dihitung per hari sewa.</p>
+
+
+      <div class="paket-grid">
+        <article class="paket">
+          <h3>Paket Busana Dasar</h3>
+          <p class="harga">Rp150.000<span> / hari</span></p>
+          <p>Sewa 1 busana pilihan: toga wisuda, jas resmi, atau kebaya.</p>
+          <p class="promo">Kode promo: GLAMORA (diskon 15%)</p>
+        </article>
+        <article class="paket unggulan">
+          <h3>Paket Busana Beserta Rias Wajah</h3>
+          <p class="harga">Rp300.000<span> / hari</span></p>
+          <p>Sewa 1 busana lengkap dengan rias wajah profesional.</p>
+          <p class="promo">Kode promo: GLAMORA (diskon 15%)</p>
+        </article>
+        <article class="paket">
+          <h3>Paket Busana Kelompok</h3>
+          <p class="harga">Rp600.000<span> / hari</span></p>
+          <p>Sewa 5 busana sekaligus untuk rombongan wisuda, keluarga, atau pagar ayu.</p>
+          <p class="promo">Kode promo: GLAMORA (diskon 15%)</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- BAGIAN 4: KALKULATOR (SE) -->
+    <section id="calc-section" data-role="SE">
+      <h2>Kalkulator sewa</h2>
+      <p class="sub">Total = harga paket × jumlah hari − diskon kode promo.</p>
+      <div class="kalkulator">
+        <label for="paket">Pilih paket</label>
+        <select id="paket">
+          <option value="150000">Paket Busana Dasar - Rp150.000</option>
+          <option value="300000">Paket Busana Beserta Rias Wajah - Rp300.000</option>
+          <option value="600000">Paket Busana Kelompok - Rp600.000</option>
+        </select>
+
+        <label for="hari">Jumlah hari sewa</label>
+        <input type="number" id="hari" min="1" value="1">
+
+        <label for="promo">Kode promo (opsional)</label>
+        <input type="text" id="promo" placeholder="Masukkan kode promo">
+
+        <button type="button" class="btn" id="tombol-hitung">Hitung total</button>
+
+        <div id="hasil" class="hasil" aria-live="polite"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- BAGIAN 5: FOOTER (CEO) -->
+  <footer id="footer-section" data-role="CEO">
+    <p class="brand-foot">Glamora Rent</p>
+    <p>&copy; 2026 Glamora Rent. Kelompok 6 WebDev D.</p>
+    <p>Tim: Naila Shafa (CEO), Intan Zahra (PM), Keysa Shabira (SE), Anindya Naila (SE), Audhy Ramadhany (UI/UX), Jennie Sheila (UI/UX) </p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
